@@ -1,0 +1,46 @@
+{
+  "name": "intercept-entity",
+  "version": "0.0.6",
+  "author": {
+    "name": "garvin",
+    "email": "garvin@zjmedia.net"
+  },
+  "description": "simple substring entity,decode entity and encode",
+  "main": "./lib",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgc/intercept-entity.git"
+  },
+  "keywords": [
+    "intercept",
+    "substring",
+    "entity",
+    "encode",
+    "decode"
+  ],
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.5.0",
+  "_npmUser": {
+    "name": "garvin",
+    "email": "garvin@zjmedia.net"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgc/intercept-entity/issues"
+  },
+  "maintainers": [
+    {
+      "name": "garvin",
+      "email": "garvin@zjmedia.net"
+    }
+  ],
+  "homepage": "https://github.com/lgc/intercept-entity#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "q": "^1.4.1"
+  },
+  "readme": "ERROR: No README data found!"
+}
