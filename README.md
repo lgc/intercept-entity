@@ -1,14 +1,14 @@
 # intercept-entity
 simple ***intercept***,***encode***,***decode*** entity
 
-##How to install
+## How to install
 
 	npm install intercept-entity
 
-##Usage
+## Usage
 
 
-###intercept
+### intercept
 + ***Param***
 
 ```javascript
@@ -41,7 +41,7 @@ entities.intercept(obj,3,function (result) {
 
 ```
 
-###encode
+### encode
 + ***encode***
 
 ```javascript
@@ -50,7 +50,7 @@ var entities = require("intercept-entity");
 entities.encode('Love中国'); //Love&#x4E2D;&#x56FD;
 ```
 
-###decode
+### decode
 + ***decode***
 
 ```javascript
